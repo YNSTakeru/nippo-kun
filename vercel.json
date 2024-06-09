@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/dev/api/:path*",
+      "destination": "https://express-hello-world-a3nc.onrender.com/dev/api/:path*"
+    }
+  ]
+}
